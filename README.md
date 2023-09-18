@@ -19,5 +19,4 @@ I recognize that there's room for improvement, and I'm committed to actively enh
 **Immersive Environment:** Elevate your user experience with an animated background.<br>
 **Effortless Exploration:** Access additional information simply by scrolling through the app.<br>
 **Real-Time Updates:** Stay ahead of changing conditions with automatic data refresh every minute.<br>
-**Unit Conversion:** Customize the app to display measurements in your preferred units.<br>
-<br>My goal is to make your weather app experience even more dynamic and informative. Stay tuned for these exciting updates!
+**Unit Conversion:** Customize the app to display measurements in your preferred units.
