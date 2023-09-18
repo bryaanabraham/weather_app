@@ -1,24 +1,23 @@
 # weather_app
 
-A new Flutter project.
+#### A new Flutter project.
 
 This project is my starting point for a Flutter application. I used the assistance if the online youtube course by Rivaan Ranawat to create this basic flutter weather application.
-The course can be found at: https://www.youtube.com/watch?v=CzRQ9mnmh44&ab_channel=RivaanRanawat
-I have left room for improvement and will work on it as and when i gain more knowledge of flutter and front end development.
-The app shows up the live weather data of a fixed location along with the forecast at given time stamps.
+The course can be found at: https://www.youtube.com/watch?v=CzRQ9mnmh44&ab_channel=RivaanRanawat<br><br>
+I recognize that there's room for improvement, and I'm committed to actively enhancing my skills in Flutter and front-end development. I'll proactively work on these areas as I continue to gain more knowledge.
 
-App's working:
-- The app provides with the live weather status of the chosen location (city).
-- The app also shows you the predicted forecast of the entire day in terms of cloudy or sunny with the temperature.
-- The app give additional information about the current humidity, windspeed and pressure of the chosen loaction
-- The app works in both light and dark mode; furthermore it automatically switches from light to dark mode after sunset and vice versa at sunrise.
-- The refresh icon allows you to refresh the data.
+### **Here's what you can do with the app:**<br>
+**Stay Informed:** Easily access live weather data for your chosen location (city).<br>
+**Plan Your Day:** Get a comprehensive daily weather forecast, complete with temperature and a clear indication of whether it will be cloudy or sunny.<br>
+**Detailed Insights:** Dive deeper with additional information on current humidity, wind speed, and atmospheric pressure at your selected location.<br>
+**Adaptive Experience:** Enjoy a seamless experience in both light and dark modes. Plus, the app intelligently switches between modes at sunset and sunrise.<br>
+**Stay Updated:** Keep your weather data fresh with the convenient refresh icon.<br>
 
-Scope of Improvement:
-I intend to incorporate the following changes at the earliest
-- display active location
-- animated widget cards which open up to provide additional information about the forecast on click
-- animated background
-- additional information will be accessible on scroll
-- auto refresh every minute
-- allow unit conversions
+### **Exciting enhancements are on the horizon:**<br>
+**Active Location Display:** Easily identify your currently selected location at a glance.<br>
+**Interactive Widgets:** Experience animated widget cards that expand to provide more insights when tapped.<br>
+**Immersive Environment:** Elevate your user experience with an animated background.<br>
+**Effortless Exploration:** Access additional information simply by scrolling through the app.<br>
+**Real-Time Updates:** Stay ahead of changing conditions with automatic data refresh every minute.<br>
+**Unit Conversion:** Customize the app to display measurements in your preferred units.<br>
+<br>My goal is to make your weather app experience even more dynamic and informative. Stay tuned for these exciting updates!
